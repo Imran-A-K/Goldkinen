@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/Imran-A-K/Goldkinen.git
-   cd timeline-pra
+   cd Goldkinen
    ```
 
 2. Install the dependencies:
